@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>github—serach—tips</title>
+    <url>/2019/11/20/mysql/</url>
+    <content><![CDATA[<ol>
+<li>去重复 <code>disitinct</code></li>
+<li>排序 <code>desc</code></li>
+<li>不匹配  <code>&lt;&gt;</code></li>
+<li><code>and</code> 优先级大于 <code>or</code></li>
+<li><p><code>in</code> <code>not in</code>  </p>
+<ul>
+<li>in比or执行更快 why</li>
+<li>可以包换select语句</li>
+</ul>
+</li>
+<li><p><code>like</code></p>
+<ul>
+<li><code>%</code> 出现任意次数</li>
+<li><code>-</code> 单个字符</li>
+</ul>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>git</category>
+      </categories>
+      <tags>
+        <tag>git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello World</title>
     <url>/2019/11/20/kubernetes/</url>
     <content><![CDATA[<h2 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h2><ol>
@@ -84,7 +113,10 @@
   <entry>
     <title></title>
     <url>/2019/11/14/Untitled/</url>
-    <content><![CDATA[]]></content>
+    <content><![CDATA[<ul>
+<li style="list-style: none"><input type="checkbox"> </li>
+</ul>
+]]></content>
   </entry>
   <entry>
     <title>github—serach—tips</title>
@@ -351,18 +383,16 @@
 <li>设置字体间距  letter-spacing</li>
 </ol>
 <h3 id="Today"><a href="#Today" class="headerlink" title="Today"></a>Today</h3><ul>
-<li><p>[x] 更新授权确认</p>
-</li>
-<li><p>[ ] JProfiler 性能分析工具</p>
-</li>
+<li style="list-style: none"><input type="checkbox" checked> 更新授权确认</li>
+<li style="list-style: none"><input type="checkbox"> JProfiler 性能分析工具</li>
+<li style="list-style: none"><input type="checkbox"> 线程池</li>
 </ul>
 ]]></content>
   </entry>
   <entry>
     <title></title>
     <url>/2019/11/03/20191103/</url>
-    <content><![CDATA[<p>sudo route add -net 66.0.0.0 66.11.3.254</p>
-<p>Authtoken saved to configuration file: /Users/xmd/.ngrok2/ngrok.yml</p>
+    <content><![CDATA[<p>Authtoken saved to configuration file: /Users/xmd/.ngrok2/ngrok.yml</p>
 <p><img src="/2019/11/03/20191103/mbp16.jpg" alt="332"></p>
 ]]></content>
   </entry>
@@ -370,7 +400,7 @@
     <title></title>
     <url>/2019/11/03/%E8%AE%B0%E5%BD%95/</url>
     <content><![CDATA[<ul>
-<li style="list-style: none"><input type="checkbox"> XP 极限编程</li>
+<li style="list-style: none"><input type="checkbox"> </li>
 <li style="list-style: none"><input type="checkbox"> </li>
 </ul>
 ]]></content>
