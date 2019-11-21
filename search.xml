@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title></title>
+    <url>/2019/11/20/Untitled%203/</url>
+    <content><![CDATA[<h2 id="Lunix命令"><a href="#Lunix命令" class="headerlink" title="Lunix命令"></a>Lunix命令</h2><ol>
+<li>du -sh <em>      把</em>换成具体的文件名会显示具体的文件大小  </li>
+</ol>
+]]></content>
+  </entry>
+  <entry>
+    <title></title>
+    <url>/2019/11/20/Untitled/</url>
+    <content><![CDATA[<ul>
+<li style="list-style: none"><input type="checkbox"> </li>
+</ul>
+]]></content>
+  </entry>
+  <entry>
     <title>github—serach—tips</title>
     <url>/2019/11/20/mysql/</url>
     <content><![CDATA[<ol>
@@ -109,14 +125,6 @@
       <tags>
         <tag>配置</tag>
       </tags>
-  </entry>
-  <entry>
-    <title></title>
-    <url>/2019/11/14/Untitled/</url>
-    <content><![CDATA[<ul>
-<li style="list-style: none"><input type="checkbox"> </li>
-</ul>
-]]></content>
   </entry>
   <entry>
     <title>github—serach—tips</title>
@@ -390,11 +398,16 @@
 ]]></content>
   </entry>
   <entry>
-    <title></title>
-    <url>/2019/11/03/20191103/</url>
-    <content><![CDATA[<p>Authtoken saved to configuration file: /Users/xmd/.ngrok2/ngrok.yml</p>
-<p><img src="/2019/11/03/20191103/mbp16.jpg" alt="332"></p>
+    <title>Hello World</title>
+    <url>/2019/11/03/java%20script/20191103/</url>
+    <content><![CDATA[<p><img src="/2019/11/03/java script/20191103/mbp16.jpg" alt="332"></p>
 ]]></content>
+      <categories>
+        <category>js</category>
+      </categories>
+      <tags>
+        <tag>js</tag>
+      </tags>
   </entry>
   <entry>
     <title></title>
